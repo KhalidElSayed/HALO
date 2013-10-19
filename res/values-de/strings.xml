@@ -2,20 +2,20 @@
 <!--
   Copyright 2013 ParanoidAndroid Project
 
-  This file is part of HALO.
+  This file is part of Paranoid OTA.
 
-  HALO is free software: you can redistribute it and/or modify
+  Paranoid OTA is free software: you can redistribute it and/or modify
   it under the terms of the GNU General Public License as published by
   the Free Software Foundation, either version 3 of the License, or
   (at your option) any later version.
 
-  HALO is distributed in the hope that it will be useful,
+  Paranoid OTA is distributed in the hope that it will be useful,
   but WITHOUT ANY WARRANTY; without even the implied warranty of
   MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
   GNU General Public License for more details.
 
   You should have received a copy of the GNU General Public License
-  along with HALO.  If not, see <http://www.gnu.org/licenses/>.
+  along with Paranoid OTA.  If not, see <http://www.gnu.org/licenses/>.
 -->
 <resources>
 
@@ -48,4 +48,10 @@
     <string name="nopa_content">"Halo))) ist speziell für ParanoidAndroid ROMs entwickelt worden. Sie werden unter Umständen nicht dazu in der Lage sein, alle Funktionen dieser App zu nutzen."</string>
     <string name="nopa_ok">"OK"</string>
     <string name="nopa_download">PA Installieren</string>
+	
+	<string name="description_1">Assistent 1</string>
+    <string name="description_2">Assistent 2</string>
+    <string name="description_3">Assistent 3</string>
+    <string name="preferenceicon_imageview">preferenceiconImageView</string>
+	
 </resources>
